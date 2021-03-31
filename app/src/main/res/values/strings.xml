@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Newsletter</string>
+    <string name="submit">Submit</string>
+    <string name="register_title">Register</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="hello">Hello</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="create_news">Create News</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="date">Date</string>
+    <string name="update">Update</string>
+    <string name="update_news">Update News</string>
+    <string name="delete">Delete</string>
+    <string name="name_must_be_filled">Name must be filled</string>
+    <string name="email_must_be_filled">Email must be filled</string>
+    <string name="must_match_email_pattern">Must match Email Pattern</string>
+    <string name="password_must_be_filled">Password must be filled</string>
+    <string name="password_must_be_7_characters_or_longer">Password must be 7 characters or longer</string>
+    <string name="gender_must_be_selected">Gender must be selected</string>
+</resources>
